@@ -27,7 +27,7 @@ O DevRadar é um projeto que visa conectar desenvolvedores próximos a você que
 
 ## :memo: Licença
 
-Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
+Esse projeto está sob a licença MIT.
 
 ---
 
